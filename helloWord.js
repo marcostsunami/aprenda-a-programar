@@ -1,1 +1,4 @@
-console.log("Hello Word!")
+// comentário
+let variavel
+variavel ="ITuring"
+console.log(variavel);
